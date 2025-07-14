@@ -29,13 +29,14 @@ For every problem, you will find:
 
 ### 📁 Example Structure
 
+```
 ├── problem-1/
-│ ├── solution1.cpp
-│ ├── solution2.py
+│ ├── solution1.java
 │ └── README.md
 ├── problem-2/
 │ ├── solution.java
 │ └── README.md
+```
 
 Each problem folder contains:
 
