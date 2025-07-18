@@ -67,10 +67,3 @@ You're given a **sorted array** that has been **rotated** at an unknown pivot. Y
 
 ---
 
-## 📊 Summary Table
-
-| Approach   | Time Complexity | Space Complexity | Description                              |
-| ---------- | --------------- | ---------------- | ---------------------------------------- |
-| Approach 1 | O(N)            | O(1)             | Simple linear scan through the array     |
-| Approach 2 | O(log N)        | O(1)             | Binary search without early sorted check |
-| Approach 3 | O(log N)        | O(1)             | Binary search with early sorted check    |

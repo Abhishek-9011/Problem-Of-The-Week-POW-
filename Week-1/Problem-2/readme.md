@@ -70,11 +70,4 @@ Given an array of integers `arr` and an integer `k`, return the total number of 
 - `O(N)` — space used by the HashMap to store prefix sums
 
 ---
-
-## 📊 Summary Table
-
-| Approach   | Time Complexity | Space Complexity | Description                                 |
-| ---------- | --------------- | ---------------- | ------------------------------------------- |
-| Approach 1 | O(N³)           | O(1)             | Brute force with 3 nested loops             |
-| Approach 2 | O(N²)           | O(1)             | Improved brute force with running sum       |
-| Approach 3 | O(N)            | O(N)             | Optimal solution using HashMap & prefix sum |
+  
