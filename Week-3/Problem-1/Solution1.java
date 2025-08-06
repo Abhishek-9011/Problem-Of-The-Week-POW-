@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Solution2 {
+public class Solution1 {
 
     public static boolean approach1(int[] arr, int index, int sum1, int sum2) {
         if (index == arr.length) {
